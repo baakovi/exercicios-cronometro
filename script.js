@@ -45,8 +45,6 @@ elemsExercicio.forEach(function (elemExercicio) {
 //   elemTela.classList.add("tela--cronometro");
 // });
 
-// Função -> estrutura que vai executar alguma coisa
-
 elemVoltar.addEventListener("click", function () {
   elemTela.classList.remove("tela--cronometro");
 
